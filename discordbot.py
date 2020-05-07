@@ -5,7 +5,7 @@ import discord
 
 bot = commands.Bot(command_prefix='/')
 token = os.environ['DISCORD_BOT_TOKEN']
-TOKEN = 'NzA1MzY4NzQ2NTAzNDM4Mzg2.XrOkwQ.wWpdZ6soWRVukKLBgaO8KxcsxTU'
+TOKEN = 'NzA1MzY4NzQ2NTAzNDM4Mzg2.XrO2Mg.fu_kBeJYB1TOaAuVB-ZuVolItiA'
 
 
 @bot.event
