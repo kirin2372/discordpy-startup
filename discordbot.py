@@ -28,3 +28,6 @@ async def ping(ctx):
 
 
 bot.run(token)
+client.run(TOKEN)
+
+$ python3 discordbot.py
